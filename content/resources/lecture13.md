@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains Cell Cultures , Assays of Cell Function, Cell
   Adhesion Assays and Cell Migration Assays.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-051j-materials-for-biomedical-applications-spring-2006/a9e7581a9f1e4954b230b3111829943f_lecture13.pdf
+file: /media/courses/3-051j-materials-for-biomedical-applications-spring-2006/a9e7581a9f1e4954b230b3111829943f_lecture13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture13.pdf
 uid: a9e7581a-9f1e-4954-b230-b3111829943f

@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains problems on Staphylococcus epidermis, neutrophils
   and  AFM.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-051j-materials-for-biomedical-applications-spring-2006/8fa940903ce230b5c5bd27f51634b45c_ps6.pdf
+file: /media/courses/3-051j-materials-for-biomedical-applications-spring-2006/8fa940903ce230b5c5bd27f51634b45c_ps6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps6.pdf
 uid: 8fa94090-3ce2-30b5-c5bd-27f51634b45c
