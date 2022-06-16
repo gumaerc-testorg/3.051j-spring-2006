@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains delivery methods, colloidal drug delivery vehicles
   and  externally controlled implantable pumps.
-file: /media/courses/3-051j-materials-for-biomedical-applications-spring-2006/82bb5feb428a20a03f0bb3876c21cd03_lecture20.pdf
+file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/82bb5feb428a20a03f0bb3876c21cd03_lecture20.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lecture20.pdf
 uid: 82bb5feb-428a-20a0-3f0b-b3876c21cd03
 ---
+This resource contains delivery methods, colloidal drug delivery vehicles and  externally controlled implantable pumps.
+
