@@ -6,6 +6,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/18603258
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture4.pdf
 uid: 18603258-a500-c0d6-2bd2-1380a9376e94
 ---
 This resource contains polymer hydrolysis, Amides, Anhydrides, Ethers, Urethanes, Ureas, Carbonates and biological factors influencing hydrolysis.
-

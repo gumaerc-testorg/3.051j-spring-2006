@@ -6,6 +6,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/a869248f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture16.pdf
 uid: a869248f-986c-0710-7e1d-7b9b01a10f22
 ---
 This resource contains least squares analysis of data, coefficient of determination, Radioactive decay and Poisson distribution.
-

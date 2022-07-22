@@ -6,6 +6,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/3e5b70e9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture10.pdf
 uid: 3e5b70e9-e6ef-f726-8f08-0fa401008d15
 ---
 This resource contains surface modification methods, surface etching, surface reactions, coating depositions and grafted polymer layers.
-

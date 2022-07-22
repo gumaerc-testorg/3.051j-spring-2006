@@ -6,6 +6,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/1ad0712b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture2.pdf
 uid: 1ad0712b-ccdf-24ef-981d-518dae09c1d1
 ---
 This resource contains Surface vs. Bulk, quantifying surface energy and surface  phenomena.
-

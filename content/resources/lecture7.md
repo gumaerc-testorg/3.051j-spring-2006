@@ -6,6 +6,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/487324e4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture7.pdf
 uid: 487324e4-5202-f661-bb19-e6fba3f90a92
 ---
 This resource contains cell adhesion mechanisms, Protein-Cell interactions, cell surface receptors, extracellular matrix and adhesion proteins.
-

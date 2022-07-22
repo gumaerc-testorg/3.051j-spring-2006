@@ -6,6 +6,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/949ab00f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture24.pdf
 uid: 949ab00f-6f5a-96dd-0a12-a3314934b633
 ---
 This resource contains medical device business, FDA regulatory branches and  biocompatibility testing.
-

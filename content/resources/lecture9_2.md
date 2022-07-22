@@ -8,6 +8,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/9dc719a0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lecture9_2.pdf
 uid: 9dc719a0-35fc-c0b1-d8c4-3fc23b7162c0
 ---
 This resource contain purpose, objectives, preparation of non-fouling surfaces, example of gold standard, biomolecule immobilization method for specific surfaces, chemical modification of materials, protein/peptide immobilization strategies and summary about biomedical applications.
-

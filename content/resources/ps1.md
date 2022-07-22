@@ -6,6 +6,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/9016d410
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps1.pdf
 uid: 9016d410-e91f-bdcc-ef6e-033099bf6563
 ---
 This resource contains problems on preparation of protein-resistant surfaces on polystyrene, plateaus and TiO2 surface.
-

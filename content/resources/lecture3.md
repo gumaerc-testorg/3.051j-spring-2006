@@ -5,6 +5,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/8cc8b054
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture3.pdf
 uid: 8cc8b054-1c29-f6d3-7f4e-6bbc69c5770c
 ---
 This resource contains chemisorption and   aqueous corrosion of metals.
-

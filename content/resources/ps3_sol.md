@@ -5,6 +5,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/d25c7cd5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3_sol.pdf
 uid: d25c7cd5-ac3d-4a76-3351-aef4a35004b6
 ---
 This resource contains solutions for problem set 3.
-

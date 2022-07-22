@@ -5,6 +5,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/b6c23a05
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pracfinalsol.pdf
 uid: b6c23a05-9f16-3de0-9371-eaabc30a0906
 ---
 This file contains solutions the questions asked in the final exam.
-

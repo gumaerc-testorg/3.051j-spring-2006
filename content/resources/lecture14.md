@@ -6,6 +6,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/d53711ec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture14.pdf
 uid: d53711ec-35ac-1eae-4127-14a3e46c0c5d
 ---
 This resource contains wound healing,  immune host defense, cancer therapy,  tissue engineering and bioprocessing/synthesis of theraputic glycoproteins.
-

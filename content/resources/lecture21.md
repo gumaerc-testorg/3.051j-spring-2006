@@ -7,6 +7,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/7497a4b0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture21.pdf
 uid: 7497a4b0-d200-eea1-0d0e-260e8cfc92a8
 ---
 This resource contains therapies for Organ replacement, mechanical properties of interest in biomaterials applications, difference between natural femur and hip prostheses, bone structure and bone remodeling.
-

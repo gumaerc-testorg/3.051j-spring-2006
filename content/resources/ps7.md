@@ -7,6 +7,7 @@ file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/621ce23d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ps7.pdf
 uid: 621ce23d-d6d3-c770-6428-6c0ec25fef4b
 ---
 This resource contains problems on biosensor device, detection element, signal transducer, L-glutamate dehydrogenase, catalytic MSG biosensor and cumulative release of NGF.
-
