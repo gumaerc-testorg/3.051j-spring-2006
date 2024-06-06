@@ -4,6 +4,7 @@ description: This resource contains measurement of adsorbed Proteins, techniques
   quantifying adsorbed amount, techniques for studying adsorption kinetics and extent
   of denaturing.
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/be5ea930c594584a0fac0477c963fc80_lecture6.pdf
+file_size: 462189
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
