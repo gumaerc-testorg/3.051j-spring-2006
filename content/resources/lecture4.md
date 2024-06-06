@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains polymer hydrolysis, Amides, Anhydrides, Ethers,
   Urethanes, Ureas, Carbonates and biological factors influencing hydrolysis.
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/18603258a500c0d62bd21380a9376e94_lecture4.pdf
+file_size: 69206
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: This resource contain purpose, objectives, preparation of non-fouli
   surfaces, chemical modification of materials, protein/peptide immobilization strategies
   and summary about biomedical applications.
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/9dc719a035fcc0b1d8c43fc23b7162c0_lecture9_2.pdf
+file_size: 184411
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

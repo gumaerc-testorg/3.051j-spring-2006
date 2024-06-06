@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems on Staphylococcus epidermis, neutrophils
   and  AFM.
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/8fa940903ce230b5c5bd27f51634b45c_ps6.pdf
+file_size: 28882
 file_type: application/pdf
 learning_resource_types:
 - Assignments

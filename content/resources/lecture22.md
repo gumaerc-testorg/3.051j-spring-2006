@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/affe144278c43d226dbc0c6df699517f_lecture22.pdf
+file_size: 721674
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
