@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions for problem set 3.
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/d25c7cd5ac3d4a763351aef4a35004b6_ps3_sol.pdf
+file_size: 114952
 file_type: application/pdf
 learning_resource_types:
 - Assignments

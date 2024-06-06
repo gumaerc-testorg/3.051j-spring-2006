@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains diabetes treatment by cell encapsulation, in vitro
   cartilage regeneration and in vivo nerve regeneration.
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/f35886c2acb257c2d1fb42f44b046da0_lecture23.pdf
+file_size: 226049
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

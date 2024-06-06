@@ -4,6 +4,7 @@ description: This resource contains problems on biosensor device, detection elem
   signal transducer, L-glutamate dehydrogenase, catalytic MSG biosensor and cumulative
   release of NGF.
 file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/621ce23dd6d3c77064286c0ec25fef4b_ps7.pdf
+file_size: 157386
 file_type: application/pdf
 learning_resource_types:
 - Assignments
