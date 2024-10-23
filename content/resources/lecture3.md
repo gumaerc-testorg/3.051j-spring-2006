@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains chemisorption and   aqueous corrosion of metals.
-file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/8cc8b0541c29f6d37f4e6bbc69c5770c_lecture3.pdf
+file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/8cc8b0541c29f6d37f4e6bbc69c5770c_lecture3.pdf
 file_size: 127469
 file_type: application/pdf
 learning_resource_types:
