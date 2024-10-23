@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions the questions asked in the final exam.
-file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/b6c23a059f163de09371eaabc30a0906_pracfinalsol.pdf
+file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/b6c23a059f163de09371eaabc30a0906_pracfinalsol.pdf
 file_size: 289419
 file_type: application/pdf
 learning_resource_types:
