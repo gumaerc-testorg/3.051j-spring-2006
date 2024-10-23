@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/13a6789cf02d2f1cb6ea84d200a1664e_lecture5.pdf
+file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/13a6789cf02d2f1cb6ea84d200a1664e_lecture5.pdf
 file_size: 378188
 file_type: application/pdf
 learning_resource_types:
