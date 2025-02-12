@@ -19,7 +19,7 @@ This class provides an introduction to the interactions between cells and the su
 
 ## Prerequisites
 
-8.01; 8.02; [3.091](https://ocw-studio.odl.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010), [5.111](https://ocw-studio.odl.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008), or [5.112](https://ocw-studio.odl.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005); [7.012](https://ocw-studio.odl.mit.edu/courses/7-012-introduction-to-biology-fall-2004), [7.013](https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/) or [7.014](https://ocw-studio.odl.mit.edu/courses/7-014-introductory-biology-spring-2005); [3.012](https://ocw-studio.odl.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005), [5.60](https://ocw-studio.odl.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008), or 2.40.
+8.01; 8.02; [3.091](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/), [5.111](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/), or [5.112](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/); [7.012](https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/), [7.013](https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/) or [7.014](https://ocw.mit.edu/courses/7-014-introductory-biology-spring-2005/); [3.012](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/), [5.60](https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/), or 2.40.
 
 ## Texts
 
@@ -341,7 +341,7 @@ Bone Substitutes
 22
 {{< tdclose >}}{{< tdopen >}}
 
-*Tissue Engineering*   
+*Tissue Engineering*     
 Cell Types; Approaches: In vitro, In vivo, Ex vivo/Cell Encapsulation
 
 Scaffolds: Design and Fabrication
