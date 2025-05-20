@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains diffusion controlled devices and chemically controlled
   approaches.
-file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/dc2cc81dbaaf71fd95d6f3c5da0f7630_lecture19.pdf
+file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/dc2cc81dbaaf71fd95d6f3c5da0f7630_lecture19.pdf
 file_size: 374260
 file_type: application/pdf
 learning_resource_types:

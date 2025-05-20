@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/b04db3d1667c0a2a9c2289b7d402a212_ps4.pdf
+file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/b04db3d1667c0a2a9c2289b7d402a212_ps4.pdf
 file_size: 47059
 file_type: application/pdf
 learning_resource_types:
