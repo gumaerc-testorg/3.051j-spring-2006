@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains structural hierarchies, length scales of structure,
   Hydrogels and Cationic Liposomes.
-file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/860c4719a25cc2154e95f27165c8bbbe_lecture1.pdf
+file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/860c4719a25cc2154e95f27165c8bbbe_lecture1.pdf
 file_size: 382066
 file_type: application/pdf
 learning_resource_types:

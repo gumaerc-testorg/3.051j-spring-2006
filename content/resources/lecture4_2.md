@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains hydrolysis, biodegradation, hydrolysable polymers
   and microbial degradation of PLLA.
-file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/212eeed0b1a87542bf5e3884ebc9bc23_lecture4_2.pdf
+file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/212eeed0b1a87542bf5e3884ebc9bc23_lecture4_2.pdf
 file_size: 1356036
 file_type: application/pdf
 learning_resource_types:

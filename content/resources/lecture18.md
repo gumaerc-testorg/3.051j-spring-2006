@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains drug delivery system, chemically-controlled DDS,
   matrix in DDS, proton sponge and liposomes.
-file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/9469ec2a04c74eca3d1ca40557376ed4_lecture18.pdf
+file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/9469ec2a04c74eca3d1ca40557376ed4_lecture18.pdf
 file_size: 579563
 file_type: application/pdf
 learning_resource_types:

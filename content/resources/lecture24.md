@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains medical device business, FDA regulatory branches
   and  biocompatibility testing.
-file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/949ab00f6f5a96dd0a12a3314934b633_lecture24.pdf
+file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/949ab00f6f5a96dd0a12a3314934b633_lecture24.pdf
 file_size: 59303
 file_type: application/pdf
 learning_resource_types:

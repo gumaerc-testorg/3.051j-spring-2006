@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on purpose and objectives of surface
   modification of biomaterials.
-file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/608c9f317c82a8a49e5e9d4e06c3dbbd_lecture9.pdf
+file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/608c9f317c82a8a49e5e9d4e06c3dbbd_lecture9.pdf
 file_size: 127701
 file_type: application/pdf
 learning_resource_types:

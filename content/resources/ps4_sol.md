@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions for problem set 4.
-file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/8b77b55e708d5c0115a4e2c488bbe8ac_ps4_sol.pdf
+file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/8b77b55e708d5c0115a4e2c488bbe8ac_ps4_sol.pdf
 file_size: 214114
 file_type: application/pdf
 learning_resource_types:
