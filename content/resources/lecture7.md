@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains cell adhesion mechanisms, Protein-Cell interactions,
   cell surface receptors, extracellular matrix and adhesion proteins.
-file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/487324e45202f661bb19e6fba3f90a92_lecture7.pdf
+file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/487324e45202f661bb19e6fba3f90a92_lecture7.pdf
 file_size: 1328351
 file_type: application/pdf
 learning_resource_types:

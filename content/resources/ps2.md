@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems on OCP, anodic reactions, affinity constant,
   maximum surface coverage and CAT adsorption.
-file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/a5ba7cb998764b09a25171b25e365b37_ps2.pdf
+file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/a5ba7cb998764b09a25171b25e365b37_ps2.pdf
 file_size: 79207
 file_type: application/pdf
 learning_resource_types:

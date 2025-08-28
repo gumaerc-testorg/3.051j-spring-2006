@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains Gaussian distribution and student?s t Distribution.
-file: /courses/3-051j-materials-for-biomedical-applications-spring-2006/5a19af079327742d1e83198929ca4eef_lecture15.pdf
+file: /ol-ocw-studio-app/courses/3-051j-materials-for-biomedical-applications-spring-2006/5a19af079327742d1e83198929ca4eef_lecture15.pdf
 file_size: 257299
 file_type: application/pdf
 learning_resource_types:
